@@ -1,0 +1,2 @@
+rule: src/main.cpp
+   g++ -o ImageProcessing src/main.cpp

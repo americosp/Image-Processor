@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\aerot\desktop\c++ projects\project2\project2\main.cpp(602): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aerot\desktop\c++ projects\project2\project2\main.cpp(604): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aerot\desktop\c++ projects\project2\project2\main.cpp(606): warning C4305: 'argument': truncation from 'double' to 'float'
+  Project2.vcxproj -> C:\Users\aerot\Desktop\C++ Projects\Project2\Debug\Project2.exe
